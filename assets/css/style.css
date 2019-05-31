@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: darkslategray;
+    color: #fff;
+}
+
+body {
+    text-align: center;
+}
+
+.h3, h3 {
+    font-size: 5.75rem;
+}
