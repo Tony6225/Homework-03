@@ -1,1 +1,4 @@
-# Homework-03
+# Javascript Hangman!
+Traditional Hangman using javascript logic.
+
+https://tony6225.github.io/Homework-03/
