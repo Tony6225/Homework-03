@@ -1,4 +1,4 @@
 # Javascript Hangman!
 Traditional Hangman using javascript logic.
 
-https://tony6225.github.io/Homework-03/
+https://tony6225.github.io/Javascript-Hangman/
